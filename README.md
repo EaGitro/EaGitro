@@ -48,3 +48,30 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EaGitro&theme=tokyonight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EaGitro&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EaGitro&theme=tokyonight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EaGitro&theme=tokyonight&utcOffset=8)
+
+<style>
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+</style>
+
+
+<div class="card" style="width: 18rem;">
+  <img class="bd-placeholder-img card-img-top" width="100%" height="180" src="https://twitter.com/EaGitro/header_photo"/>
+
+
+  <div class="card-body">
+    <h5 class="card-title">My Twitter</h5>
+    <p class="card-text">Here is My Twitter.</p>
+    <a href="https://twitter.com/EaGitro" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
