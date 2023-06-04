@@ -1,4 +1,5 @@
 # Hello World! I'm Ea_Gitro!
+<link rel="stylesheet" href="./style/style.css">
 
 ```
 wwO_jk0X$d=.~<<<<c-._____._<<_.~-- (I+<&v!~(+JzSv1
