@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <div style="width: 18rem; background-color: black;">
-    <img class="bd-placeholder-img card-img-top" width="100%" height="180" src="./img/twitter_icon.jpg"/>
+    <img class="bd-placeholder-img card-img-top" width="40%" height="180" src="./img/twitter_icon.jpg"/>
     <br>
     <h5>My Twitter<h5>
 </div>
