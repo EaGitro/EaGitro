@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 <div class="card" style="width: 18rem; position: relative; display: flex;    flex-direction: column; min-width: 0; word-wrap: break-word; background-color: #fff;background-clip: border-box; border: 1px solid rgba(0,0,0,.125); border-radius: 0.25rem;">
-  <img class="bd-placeholder-img card-img-top" width="100%" height="180" src="./img/twitter_icon.jpg"/>
+  <img class="bd-placeholder-img card-img-top" width="18rem" height="180" src="./img/twitter_icon.jpg"/>
 
 
   <div class="card-body">
