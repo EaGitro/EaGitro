@@ -44,7 +44,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-profile-trophy.vercel.app/?username=EaGitro&theme=discord&column=9&no-frame=true)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EaGitro&theme=tokyonight)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EaGitro&theme=tokyonight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EaGitro&theme=tokyonight)
 
